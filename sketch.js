@@ -21,7 +21,7 @@ function setup() {
 
 function draw() {
  //background (0,255,255);
-  image(EYE, mouseY+50,mouseX+50, EYE.height/2, EYE.width/2);
+  image(EYE, mouseY,mouseX, EYE.height/2, EYE.width/2);
   //image(EYE2,100,100, EYE2.height/2, EYE2.width/2);
 }
 
